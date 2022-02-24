@@ -61,6 +61,24 @@ xaringanExtra::use_tile_view()
 ### `r format(Sys.time(), "%B %d, %Y")`
 
 ---
+# Agenda
+
+.pull-left[
+## Looking Back
+- What is the LASER Institute? 
+- A Shift to Virtual  
+- Quality  
+]
+
+.pull-right[
+## Looking Ahead
+- Density
+- Centrality 
+- Reciprocity
+
+]
+
+---
 class: clear, center, middle, no-logo
 .font150[.navy[**Meet our Team**]]
 ![](img/LASERteam.png)
