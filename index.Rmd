@@ -64,16 +64,16 @@ xaringanExtra::use_tile_view()
 # Agenda
 
 .pull-left[
-## Looking Back
+## Looking Back on 2021
 - What is the LASER Institute? 
 - A Shift to Virtual  
-- Quality  
+- Summer Workshop Findings  
 ]
 
 .pull-right[
-## Looking Ahead
-- Density
-- Centrality 
+## Looking Ahead to 2022
+- Virtual Residue
+- Engaging the Community 
 - Reciprocity
 
 ]
