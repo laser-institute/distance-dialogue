@@ -74,9 +74,14 @@ xaringanExtra::use_tile_view()
 ## Looking Ahead to 2022
 - Virtual Residue
 - Engaging the Community 
-- Tentative Summer Schedule
+- Summer Workshop Changes
 
 ]
+
+---
+class: clear, inverse, center, middle
+
+.font150[Looking Back to 2021]
 
 ---
 class: clear, center, middle, no-logo
@@ -218,7 +223,24 @@ Scholars were also encouraged to engage one another and the project team using t
 - Coding in the cloud had its challenges!
 
 ---
-# Community of Practice (with Participate)
+class: clear, inverse, center, middle
+
+.font150[Looking Ahead to 2022]
+
+---
+# Virtual Residue
+
+What elements from our virtual year are worth retaining? 
+- [RStudio Cloud](https://rstudio.cloud) despite it's many bugs
+- The flexibility and differentiation virtual compelled us to accommodate. 
+- [Virtual Case studies](https://laser-institute.github.io/text-mining/keys/tm-learning-lab-2-key.html), though for badging and accountability. 
+- 
+- To Slack or not to Slack? That really is question mark. 
+
+
+---
+# Engaging the Community (with Participate)
+What elements from our virtual year need serious attention? 
 
 
 ---
