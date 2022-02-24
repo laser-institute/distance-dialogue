@@ -219,6 +219,10 @@ Scholars were also encouraged to engage one another and the project team using t
 - Coding in the cloud had its challenges!
 
 ---
+class: clear, center, middle, no-logo
+
+![](img/lines.png)
+---
 class: clear, inverse, center, middle
 
 .font150[Looking Ahead to 2022]
