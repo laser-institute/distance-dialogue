@@ -247,11 +247,7 @@ We've contracted with [Participate, Inc.](https://www.participate.com) to help u
 # Summer Workshop Changes
 So what changes are we making for the coming year?
 - Virtual only as a last resort 
-<<<<<<< HEAD
 - 1 week, definitely not 2
-=======
-- 1 week, defintely not 2
->>>>>>> 2e93e07477aa7dc9f66d40be84bc0cf2b1d99293
 - More Content but Less Content 
 - Badging & Accountability
 - Better Balance among Program Goals  
