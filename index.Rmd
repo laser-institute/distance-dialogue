@@ -167,18 +167,14 @@ class: clear, inverse, center, middle
 # The Scholar's Toolkit
 
 The goal here really is centered around building reproducible research.
+<br/><br/>
+.center[
 
-.pull-left[
+<img style="float: left; padding: 45px;" src="img/Rlogo.svg" height="150px"/>
 
-<img style="float: left; padding: 25px;" src="img/Rlogo.svg" height="100px"/>
+<img style="float: left; padding: 55px;" src="img/Rstudiologo.svg" height="125px"/>
 
-<img style="float: left; padding: 30px;" src="img/Rstudiologo.svg" height="100px"/>
-
-]
-
-
-.pull-right[
-<img style="float: left; padding: 25px;" src="img/Octocat.png" height="100px"/>
+<img style="float: left; padding: 30px;" src="img/Octocat.png" height="150px"/>
 
 ]
 
