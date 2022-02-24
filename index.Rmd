@@ -90,10 +90,6 @@ The Learning Analytics in STEM Education Research (LASER) Institute is a profess
  - Online community of practice
 - $1500 participant stipend
 ]
----
-# Summer Workshop
-
-.center[![](img/workshopoverview.png)]
 
 ---
 # What is Learning Analytics?
@@ -109,6 +105,10 @@ class: animated, fadeIn
 ???
 As a research and teaching field, Learning Analytics sits at the convergence of Learning (e.g. educational research, learning and assessment sciences, educational technology), Analytics (e.g. statistics, visualization, computer/data sciences, artificial intelligence), and Human-Centered Design (e.g. usability, participatory design, sociotechnical systems thinking).
 
+---
+# Summer Workshop
+
+.center[![](img/workshopoverview.png)]
 
 ---
 class: clear, inverse, center, middle
@@ -150,7 +150,26 @@ class: clear, inverse, center, middle
 
 The goal here really is centered around building reproducible research.
 
-R, RStudio, Github, (what's that social network tool again?)
+.pull-left[
+
+<img style="float: left; padding: 25px;" src="img/Rlogo.svg" height="100px"/>
+
+<img style="float: left; padding: 30px;" src="img/Rstudiologo.svg" height="100px"/>
+
+]
+
+
+.pull-right[
+<img style="float: left; padding: 25px;" src="img/Octocat.png" height="100px"/>
+
+]
+
+---
+class: clear, inverse, middle, center
+
+What did this look like in a remote context?
+
+https://rstudio.cloud/spaces/140883
 
 ---
 class: clear, inverse, center, middle
@@ -160,21 +179,25 @@ class: clear, inverse, center, middle
 ---
 # Communities of Practice
 
+.pull-left[Scholars could "mingle" in sessions set aside for building potential research partnerships. 
 
----
+Breakout rooms used for affinity groups for research topic areas.
 
-class: clear, inverse, middle, center
-
-Contingency plan...
-
-
----
-# Shifting to remote 
-
+Scholars were also encouraged to engage one another and the project team using the Slack collaboration platform.]
+.pull-right[<img style="float: left; padding: 25px;" src="img/scholarslack.png" height="400px"/>]
 
 ---
 # Lessons Learned from Summer 2021
 
+- Participants found that the keynotes and presentations particularly impactful to their understanding of LA methodologies.
+
+- Expressed a desire for more practice with topic areas (e.g., machine learning or text mining) or greater exposure to fewer focus areas.
+
+- Highlighted a need for access to resources such as articles, videos, and/or real research projects.
+
+- Scaffolding according to experience with R
+
+- Coding in the cloud had its challenges!
 
 ---
 # Community of Practice (with Participate)
@@ -185,11 +208,27 @@ Contingency plan...
 
 
 ---
-class: clear, laser
+class: clear, inverse, middle
 
+.center[
+Learn More
+
+<img src="img/website.png" height="400px"/>
+
+https://www.fi.ncsu.edu/projects/laser-institute/
+
+]
 
 ---
+# Resources Mentioned Here Today
 
+- https://www.r-project.org/
+
+- https://www.rstudio.com/
+
+- https://rstudio.cloud/
+
+- https://github.com/
 
 ---
 class: inverse, clear, center
@@ -197,13 +236,13 @@ class: inverse, clear, center
 ## .font130[.center[**Thank you!**]]
 
 .left-col[
-.center[<img style="border-radius: 50%;" src="img/author1.jpeg" height="120px"/><br/>**Shaun Kellogg**<br/><mailto:sbkellog@ncsu.edu>]
+.center[<img style="border-radius:50%;" src="img/shaun.jpeg" height="120px"/><br/>**Shaun Kellogg**<br/><mailto:sbkellog@ncsu.edu>]
 ]
 .center-col[
 .center[]
 ]
 .right-col[
-.center[<img style="border-radius: 50%;" src="img/author3.jpeg" height="120px"/><br/>**Jennifer Houchins**<br/><mailto:jennifer.houchins@ncsu.edu>]
+.center[<img style="border-radius: 50%;" src="img/jenn.jpeg" height="120px"/><br/>**Jennifer Houchins**<br/><mailto:jkhouchi@ncsu.edu>]
 ]
 <br/><br/><br/><br/><br/>
 
@@ -211,6 +250,6 @@ class: inverse, clear, center
 
 .pull-right-wide[
 .left[.font70[
-This work was supported by countless cups of hot tea, cookies, and the RStats Xaringan community willingness to post of plethora of tutorials. But you may wish to thank your funding agency (e.g., the National Science Foundation) and put their logo on the left as shown here.
+This work was supported by the National Science Foundation grant DRL-2025090 (ECR:BCSER). Any opinions, findings, and conclusions expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
 ]]
 ]
